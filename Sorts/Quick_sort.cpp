@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstdlib>
-#include <vector>
 using namespace std;
 
 int Partition(int* array,int front,int end);
